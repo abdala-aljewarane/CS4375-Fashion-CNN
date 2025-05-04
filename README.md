@@ -4,7 +4,7 @@ CS-4375 Course Project | Spring 2025
 
 ## 👥 Team Members
 - [Abdala Aljewarane] ([axa210260]@utdallas.edu)
-- [Partner Name] ([lerich.osay]@utdallas.edu) 
+- [Lerich Osay] ([lerich.osay]@utdallas.edu) 
 
 
 ## 📝 Project Overview
